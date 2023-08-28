@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yukta-Arya
-- 👀 I’m interested in ...Computer programming and Development
-- 🌱 I’m currently learning ...DSA using Java
+- 👀 I’m interested in ...Python Programming and Front-End Development
+- 🌱 I’m currently learning ...Django
 - 💞️ I’m looking to collaborate on similar technology projects
 - 📫 reach me at yuktaarya.24042000@gmail.com
 
